@@ -3,4 +3,4 @@ __pycache__/
 *.pyc
 .env
 *.ipynb
-.ipynb_checkpoints/git add .
+.ipynb_checkpoints/
